@@ -2,5 +2,4 @@
 	"server": "localhost",
 	"port": 1234,
 	"timeout": 10,
-	"flag":"flag{D0nt_C0mmit_S3ns!t!v3_!nf0rm4ti0n}"
 }
